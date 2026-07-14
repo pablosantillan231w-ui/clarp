@@ -1,0 +1,3 @@
+Usuario: adrianmercadoca@gmail.com
+Clave: True.love
+Region: México (MX)
