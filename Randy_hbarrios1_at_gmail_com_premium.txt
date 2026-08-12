@@ -1,3 +1,0 @@
-Usuario: hbarrios1@gmail.com
-Clave: a123456b
-Region: Paraguay (PY)
